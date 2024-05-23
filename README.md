@@ -5,6 +5,13 @@ Hello! My name is Kim, and I am currently pursuing a career in data analytics. M
 
 ## 📚 Projects
 
+You can view my projects here
+
+## 🛠️ Tools
+* Language: SQL, Python
+* Database: Oracle APEX SQL
+* Visualization: Tableau, RStudio, Excel
+
 ## 👋🏻 Contact
 * Linkedin
 * Email:
