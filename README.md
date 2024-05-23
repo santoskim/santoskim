@@ -1,7 +1,10 @@
-## Me 👩🏻
+## 👩🏻 Me
 
+Hi there! My name is Kim.
 
+## 📚 Projects
 
+## 👋🏻 Contact
 
 <!--
 **santoskim/santoskim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
